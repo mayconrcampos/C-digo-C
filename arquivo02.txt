@@ -1,0 +1,22 @@
+1 1 1 Título: Shell Linux Ed.: 11 Autor: Julio Neves Editora: Brasport ISBN: 4574528331 Ano: 2017
+2 2 1 Título: Prazeres da Mesa Ed.: Burguer Autor: Elav Editora: Prazeres da Mesa ISBN: 35463456 Ano: 2020
+3 1 1 Título: Descobrindo o Linux Ed.: 3 Autor: Joao E M Filho Editora: Novatec ISBN: 8575222783 Ano: 2012
+1 1 1 Título: Sistemas Operacionais Modernos Ed.: 4 Autor: Andrew Tanenbaum Editora: Pearson ISBN: 8543005671 Ano: 2015
+2 2 5 Título: Time - The Next Pele Ed.: Neymar Autor: Bobby Ghosh Editora: Time ISBN: 123456789 Ano: 2018
+2 2 2 Título: Quatro Rodas Ed.: Vale a pena esperar Autor: Abril Editora: Abril ISBN: 1234566789 Ano: 2018
+1 2 1 Título: Quatro Rodas Ed.: Novo SUV da GM Autor: Abril Editora: Abril ISBN: 123456789 Ano: 2017
+3 2 1 Título: Caras Ed.: Cristina Ferreira Autor: Caras Portugal Editora: Impresa Publishing ISBN: 5603846000088 Ano: 2014
+1 1 1 Título: Arte de Projetar em Arquitetura Ed.: 18 Autor: Ernst Neufert Editora: Gustavo Gili ISBN: 8565985083 Ano: 2013
+1 1 1 Título: Manual do Arquiteto Ed.: 5 Autor: Pamela Buxton Editora: Bookman ISBN: 8582604300 Ano: 2017
+3 1 2 Título: Cidades para Pessoas Ed.: 1 Autor: Jan Gehl Editora: Perspectiva ISBN: 8527309807 Ano: 2013
+1 1 1 Título: Linguagem C Ed.: 10 Autor: Luis Damas Editora: LTC ISBN: 8521615191 Ano: 2006
+2 1 1 Título: Estrutura de Dados Descomplicada Ed.: 1 Autor: Andre Backes Editora: Gen LTC ISBN: 8535285237 Ano: 2016
+1 1 1 Título: JavaScript: Guia do Programador Ed.: 1 Autor: Mauricio Samy Silva Editora: Novatec ISBN: 8575222481 Ano: 2010
+3 1 1 Título: Engenharia de Software Ed.: 10 Autor: Ian Sommerville Editora: Pearson ISBN: 8543024978 Ano: 2019
+3 1 1 Título: UML - Uma abordagem pratica Ed.: 3 Autor: Gilleanes T A Guedes Editora: Novatec ISBN: 8575226460 Ano: 2018
+2 2 1 Título: Arquitetura e Construçao Ed.: Cabana Arquitetos Autor: Andre Eisenlohr Editora: Abril ISBN: 123456789 Ano: 2014
+2 2 1 Título: Casas & Curvas na Arquitetura brasileira Ed.: 1 Autor: Nicolas Kilaris Editora: Casas ISBN: 123456789 Ano: 2016
+2 2 1 Título: Projeto Ed.: 432 Autor: Mundstock Arquitetura Editora: Arco ISBN: 123456789 Ano: 2016
+3 2 1 Título: Formas - Arquitetura Potiguar Ed.: 183 Autor: Issuu Editora: Issuu ISBN: 123456789 Ano: 2016
+2 1 1 Título: Python Levado a Serio Ed.: 1 Autor: Julien Danjou Editora: Novatec ISBN: B0893MG7MG Ano: 2020
+1 1 1 Título: Use a Cabeça! Python Ed.: 1 Autor: Paul Barry Editora: Alta Books ISBN: B085Q53LKX Ano: 2020
